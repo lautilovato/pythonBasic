@@ -58,6 +58,8 @@ print(lenguage.upper().isupper()) #".issuper()" es para comprobart si todo esta 
 print(lenguage.capitalize().isupper())
 print(lenguage.startswith("Py"))
 print(lenguage.startswith("py"))
+print(sorted(lenguage)) # ordena en una lista alfabeticamente la palabra separando cada caracter
+
 
 
 
