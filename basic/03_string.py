@@ -61,5 +61,5 @@ print(lenguage.startswith("py"))
 print(sorted(lenguage)) # ordena en una lista alfabeticamente la palabra separando cada caracter
 
 
-
+print("ho" + "la") # Se pueden concatenar cadenas de texto
 
